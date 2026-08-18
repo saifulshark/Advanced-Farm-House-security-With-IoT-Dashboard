@@ -825,6 +825,8 @@ The system recognizes authorized users through a laptop webcam, controls the gat
 - MQ-2 / MQ-5 Gas Sensor
 - SG90 Servo Motor
 - Wi-Fi Router
+- PIR(Intrusion Detection)
+- Laser(security laser break)
 
 ### Software
 
