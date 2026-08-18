@@ -1159,3 +1159,7 @@ The ThingSpeak channel can then be used to view the sensor graphs remotely. The 
 This project is open source and available under the MIT License.
 
 > **Network Note:** The Laptop, ESP32 #1, and Dashboard Server should be on the same main Wi-Fi network. ESP32 #2 connects to the `No_Network` Access Point created by ESP32 #1.
+
+## Video Clips!
+[Video Tutorial](https://youtu.be/m4eX0TFn8zo)
+[Video Tutorial](https://youtu.be/XwVTBG5RGu8)
