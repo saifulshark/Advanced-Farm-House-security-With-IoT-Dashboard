@@ -1087,6 +1087,13 @@ python EncodeGenerator.py
 
 **Dashboard not receiving data:** Verify the dashboard IP, port `5000`, endpoint, and API key.
 
+## Project View Images(shots)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9475bbdb-2d16-44e7-b3a0-922bc8fb768b" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0a3fa093-467b-4b83-bb1e-fe3c8a4479b9" />
+<img width="417" height="408" alt="image" src="https://github.com/user-attachments/assets/bbe471d1-f7c1-48b4-a399-cf175abff1f8" />
+<img width="719" height="435" alt="image" src="https://github.com/user-attachments/assets/1214be7f-480a-48fb-a1b1-f484dc013657" />
+
+
 ## Optional: ThingSpeak Integration
 
 ThingSpeak can be used as an optional cloud dashboard for storing and graphing sensor data.
